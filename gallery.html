@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Our Gallery 📸</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    /* Polaroid hover effect */
+    .polaroid {
+      transition: transform 0.4s ease, box-shadow 0.4s ease;
+      border-radius: 1rem;
+      overflow: hidden;
+      cursor: pointer;
+      background: white;
+      box-shadow: 0 10px 20px rgba(0,0,0,0.15);
+    }
+
+    .polaroid:hover {
+      transform: scale(1.05) rotate(0deg) translateY(-5px);
+      box-shadow: 0 20px 35px rgba(0,0,0,0.25);
+      z-index: 10;
+    }
+
+    /* Polaroid caption overlay */
+    .caption {
+      text-align: center;
+      font-weight: 600;
+      color: #4B5563;
+      padding: 0.5rem;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body class="bg-[#fffdf7] min-h-screen font-poppins p-6">
+
+  <!-- Back button -->
+  <a href="index.html" class="text-red-500 font-semibold hover:underline">← Back</a>
+
+  <!-- Title -->
+  <div class="text-center mt-6">
+    <h1 class="text-3xl md:text-4xl font-bold text-red-600">Our Memories ❤️</h1>
+    <p class="text-gray-600 mt-2">A collection of our special moments together</p>
+  </div>
+
+  <!-- Polaroid Gallery -->
+  <div class="mt-12 flex flex-wrap justify-center gap-10">
+
+    <!-- Polaroid Card 1 -->
+    <div class="polaroid transform rotate-[-5deg] w-52">
+      <img src="us.jpg" alt="SM" class="w-full h-64 object-cover">
+      <div class="caption">SM</div>
+    </div>
+
+    <!-- Polaroid Card 2 -->
+    <div class="polaroid transform rotate-[4deg] w-52">
+      <img src="Sky Ranch.jpg" alt="Sky Ranch" class="w-full h-64 object-cover">
+      <div class="caption">Sky Ranch</div>
+    </div>
+
+    <!-- Polaroid Card 3 -->
+    <div class="polaroid transform rotate-[-7deg] w-52">
+      <img src="random.jpg" alt="Random" class="w-full h-64 object-cover">
+      <div class="caption">Random</div>
+    </div>
+
+    <!-- Polaroid Card 4 -->
+    <div class="polaroid transform rotate-[6deg] w-52">
+      <img src="random.1.jpg" alt="Vacation" class="w-full h-64 object-cover">
+      <div class="caption">Random .2</div>
+    </div>
+
+    <!-- Polaroid Card 5 -->
+    <div class="polaroid transform rotate-[-3deg] w-52">
+      <img src="Sky Ranch.jpg" alt="Random" class="w-full h-64 object-cover">
+      <div class="caption">Sky Ranch</div>
+    </div>
+
+  </div>
+
+</body>
+</html>

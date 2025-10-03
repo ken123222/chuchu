@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Love Messages 💌</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: { poppins: ['"Poppins"', 'sans-serif'] },
+          keyframes: {
+            fadeIn: { '0%': {opacity:'0', transform:'translateY(15px)'}, '100%': {opacity:'1', transform:'translateY(0)'} }
+          },
+          animation: { 'fade-in':'fadeIn 0.7s ease-out forwards' }
+        }
+      }
+    }
+  </script>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-[#fffdf7] bg-[url('https://www.transparenttextures.com/patterns/paper-fibers.png')] bg-repeat font-poppins text-gray-800 min-h-screen flex flex-col items-center">
+
+  <div class="max-w-3xl mx-auto mt-12 p-6 text-center">
+    <h1 class="text-3xl font-bold text-[#b71c1c] mb-6 animate-fade-in">💌 My Love Messages For You 💌</h1>
+    
+    <div class="space-y-4 text-left">
+      <div class="p-4 bg-[#fff5f5] border-l-4 border-[#b71c1c] rounded-md shadow animate-fade-in">
+        Every morning, my first thought is you. ☀️
+      </div>
+      <div class="p-4 bg-[#fff5f5] border-l-4 border-[#b71c1c] rounded-md shadow animate-fade-in" style="animation-delay:200ms">
+        Thank you for filling my life with happiness. 💖
+      </div>
+      <div class="p-4 bg-[#fff5f5] border-l-4 border-[#b71c1c] rounded-md shadow animate-fade-in" style="animation-delay:400ms">
+        With every heartbeat, I love you more. ❤️
+      </div>
+      <div class="p-4 bg-[#fff5f5] border-l-4 border-[#b71c1c] rounded-md shadow animate-fade-in" style="animation-delay:600ms">
+        You are my safe place and my forever home. 🏡
+      </div>
+    </div>
+
+    <!-- Back button -->
+    <a href="index.html" class="mt-10 inline-block px-6 py-3 bg-[#b71c1c] text-white rounded-lg hover:bg-[#8b1414] transition">
+      ⬅ Back Home
+    </a>
+  </div>
+
+</body>
+</html>
