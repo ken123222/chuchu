@@ -1,0 +1,74 @@
+{
+  "cardio": [
+    { "id": 1, "name": "Running", "gifUrl": "https://via.placeholder.com/300x200?text=Running", "targetMuscles": ["legs","cardio"], "duration": 30, "intensity": "High", "type": "Cardio" },
+    { "id": 2, "name": "Jumping Jacks", "gifUrl": "https://via.placeholder.com/300x200?text=Jumping+Jacks", "targetMuscles": ["full body","cardio"], "duration": 10, "intensity": "Medium", "type": "Cardio" },
+    { "id": 3, "name": "Burpees", "gifUrl": "https://via.placeholder.com/300x200?text=Burpees", "targetMuscles": ["full body","cardio"], "duration": 15, "intensity": "High", "type": "Cardio" },
+    { "id": 4, "name": "Mountain Climbers", "gifUrl": "https://via.placeholder.com/300x200?text=Mountain+Climbers", "targetMuscles": ["full body","cardio"], "duration": 12, "intensity": "High", "type": "Cardio" },
+    { "id": 5, "name": "High Knees", "gifUrl": "https://via.placeholder.com/300x200?text=High+Knees", "targetMuscles": ["legs","cardio"], "duration": 10, "intensity": "Medium", "type": "Cardio" },
+    { "id": 6, "name": "Jump Rope", "gifUrl": "https://via.placeholder.com/300x200?text=Jump+Rope", "targetMuscles": ["legs","cardio"], "duration": 15, "intensity": "Medium", "type": "Cardio" },
+    { "id": 7, "name": "Sprint Intervals", "gifUrl": "https://via.placeholder.com/300x200?text=Sprint+Intervals", "targetMuscles": ["legs","cardio"], "duration": 20, "intensity": "High", "type": "Cardio" },
+    { "id": 8, "name": "Cycling", "gifUrl": "https://via.placeholder.com/300x200?text=Cycling", "targetMuscles": ["legs","cardio"], "duration": 40, "intensity": "Medium", "type": "Cardio" },
+    { "id": 9, "name": "Rowing", "gifUrl": "https://via.placeholder.com/300x200?text=Rowing", "targetMuscles": ["back","arms","cardio"], "duration": 30, "intensity": "Medium", "type": "Cardio" },
+    { "id": 10, "name": "Stair Climbing", "gifUrl": "https://via.placeholder.com/300x200?text=Stair+Climbing", "targetMuscles": ["legs","cardio"], "duration": 20, "intensity": "High", "type": "Cardio" },
+
+    { "id": 11, "name": "Side Shuffles", "gifUrl": "https://via.placeholder.com/300x200?text=Side+Shuffles", "targetMuscles": ["legs","cardio"], "duration": 15, "intensity": "Medium", "type": "Cardio" },
+    { "id": 12, "name": "Skater Jumps", "gifUrl": "https://via.placeholder.com/300x200?text=Skater+Jumps", "targetMuscles": ["legs","cardio"], "duration": 12, "intensity": "High", "type": "Cardio" },
+    { "id": 13, "name": "Box Jumps", "gifUrl": "https://via.placeholder.com/300x200?text=Box+Jumps", "targetMuscles": ["legs","cardio"], "duration": 10, "intensity": "High", "type": "Cardio" },
+    { "id": 14, "name": "Jump Lunges", "gifUrl": "https://via.placeholder.com/300x200?text=Jump+Lunges", "targetMuscles": ["legs","glutes","cardio"], "duration": 12, "intensity": "High", "type": "Cardio" },
+    { "id": 15, "name": "Butt Kicks", "gifUrl": "https://via.placeholder.com/300x200?text=Butt+Kicks", "targetMuscles": ["legs","cardio"], "duration": 8, "intensity": "Medium", "type": "Cardio" },
+
+    { "id": 16, "name": "Side-to-Side Hops", "gifUrl": "https://via.placeholder.com/300x200?text=Side-to-Side+Hops", "targetMuscles": ["legs","cardio"], "duration": 10, "intensity": "Medium", "type": "Cardio" },
+    { "id": 17, "name": "Jump Squats", "gifUrl": "https://via.placeholder.com/300x200?text=Jump+Squats", "targetMuscles": ["legs","glutes","cardio"], "duration": 12, "intensity": "High", "type": "Cardio" },
+    { "id": 18, "name": "Bear Crawls", "gifUrl": "https://via.placeholder.com/300x200?text=Bear+Crawls", "targetMuscles": ["full body","cardio"], "duration": 10, "intensity": "High", "type": "Cardio" },
+    { "id": 19, "name": "Agility Ladder", "gifUrl": "https://via.placeholder.com/300x200?text=Agility+Ladder", "targetMuscles": ["legs","cardio"], "duration": 15, "intensity": "Medium", "type": "Cardio" },
+    { "id": 20, "name": "Jump Rope Double Unders", "gifUrl": "https://via.placeholder.com/300x200?text=Double+Unders", "targetMuscles": ["legs","cardio"], "duration": 12, "intensity": "High", "type": "Cardio" },
+
+    { "id": 21, "name": "Fast Feet", "gifUrl": "https://via.placeholder.com/300x200?text=Fast+Feet", "targetMuscles": ["legs","cardio"], "duration": 10, "intensity": "Medium", "type": "Cardio" },
+    { "id": 22, "name": "Lateral Jumps", "gifUrl": "https://via.placeholder.com/300x200?text=Lateral+Jumps", "targetMuscles": ["legs","glutes","cardio"], "duration": 12, "intensity": "High", "type": "Cardio" },
+    { "id": 23, "name": "High Plank Jacks", "gifUrl": "https://via.placeholder.com/300x200?text=Plank+Jacks", "targetMuscles": ["core","arms","cardio"], "duration": 8, "intensity": "Medium", "type": "Cardio" },
+    { "id": 24, "name": "Tuck Jumps", "gifUrl": "https://via.placeholder.com/300x200?text=Tuck+Jumps", "targetMuscles": ["legs","glutes","cardio"], "duration": 12, "intensity": "High", "type": "Cardio" },
+    { "id": 25, "name": "Inchworms", "gifUrl": "https://via.placeholder.com/300x200?text=Inchworms", "targetMuscles": ["arms","core","legs","cardio"], "duration": 10, "intensity": "Medium", "type": "Cardio" },
+
+    { "id": 26, "name": "Side Plank Hip Lifts", "gifUrl": "https://via.placeholder.com/300x200?text=Side+Plank+Hip+Lifts", "targetMuscles": ["core","obliques"], "duration": 8, "intensity": "Medium", "type": "Cardio" },
+    { "id": 27, "name": "Sprint in Place", "gifUrl": "https://via.placeholder.com/300x200?text=Sprint+in+Place", "targetMuscles": ["legs","cardio"], "duration": 15, "intensity": "High", "type": "Cardio" },
+    { "id": 28, "name": "Frog Jumps", "gifUrl": "https://via.placeholder.com/300x200?text=Frog+Jumps", "targetMuscles": ["legs","glutes","cardio"], "duration": 12, "intensity": "High", "type": "Cardio" },
+    { "id": 29, "name": "Step-Ups", "gifUrl": "https://via.placeholder.com/300x200?text=Step-Ups", "targetMuscles": ["legs","glutes","cardio"], "duration": 15, "intensity": "Medium", "type": "Cardio" },
+    { "id": 30, "name": "Shadow Boxing", "gifUrl": "https://via.placeholder.com/300x200?text=Shadow+Boxing", "targetMuscles": ["arms","core","cardio"], "duration": 20, "intensity": "Medium", "type": "Cardio" },
+
+    { "id": 31, "name": "Lunge Jumps", "gifUrl": "https://via.placeholder.com/300x200?text=Lunge+Jumps", "targetMuscles": ["legs","glutes","cardio"], "duration": 12, "intensity": "High", "type": "Cardio" },
+    { "id": 32, "name": "Side Lunges", "gifUrl": "https://via.placeholder.com/300x200?text=Side+Lunges", "targetMuscles": ["legs","glutes"], "duration": 10, "intensity": "Medium", "type": "Cardio" },
+    { "id": 33, "name": "Butt Kick Runs", "gifUrl": "https://via.placeholder.com/300x200?text=Butt+Kick+Runs", "targetMuscles": ["legs","cardio"], "duration": 8, "intensity": "Medium", "type": "Cardio" },
+    { "id": 34, "name": "Jumping Knee Taps", "gifUrl": "https://via.placeholder.com/300x200?text=Jumping+Knee+Taps", "targetMuscles": ["legs","core","cardio"], "duration": 10, "intensity": "Medium", "type": "Cardio" },
+    { "id": 35, "name": "Lateral Skater Hops", "gifUrl": "https://via.placeholder.com/300x200?text=Lateral+Skater+Hops", "targetMuscles": ["legs","glutes","cardio"], "duration": 12, "intensity": "High", "type": "Cardio" },
+
+    { "id": 36, "name": "Bear Plank", "gifUrl": "https://via.placeholder.com/300x200?text=Bear+Plank", "targetMuscles": ["core","arms","cardio"], "duration": 10, "intensity": "Medium", "type": "Cardio" },
+    { "id": 37, "name": "Jump Rope Single Leg", "gifUrl": "https://via.placeholder.com/300x200?text=Single+Leg+Jump+Rope", "targetMuscles": ["legs","cardio"], "duration": 12, "intensity": "Medium", "type": "Cardio" },
+    { "id": 38, "name": "Power Skips", "gifUrl": "https://via.placeholder.com/300x200?text=Power+Skips", "targetMuscles": ["legs","cardio"], "duration": 12, "intensity": "High", "type": "Cardio" },
+    { "id": 39, "name": "In-Place Squat Jumps", "gifUrl": "https://via.placeholder.com/300x200?text=In-Place+Squat+Jumps", "targetMuscles": ["legs","glutes","cardio"], "duration": 12, "intensity": "High", "type": "Cardio" },
+    { "id": 40, "name": "Running Man Drill", "gifUrl": "https://via.placeholder.com/300x200?text=Running+Man+Drill", "targetMuscles": ["legs","cardio"], "duration": 10, "intensity": "Medium", "type": "Cardio" },
+
+    { "id": 41, "name": "Plank Jacks", "gifUrl": "https://via.placeholder.com/300x200?text=Plank+Jacks", "targetMuscles": ["core","arms","cardio"], "duration": 10, "intensity": "Medium", "type": "Cardio" },
+    { "id": 42, "name": "Flutter Kicks", "gifUrl": "https://via.placeholder.com/300x200?text=Flutter+Kicks", "targetMuscles": ["core","legs","cardio"], "duration": 8, "intensity": "Medium", "type": "Cardio" },
+    { "id": 43, "name": "Box Step Jumps", "gifUrl": "https://via.placeholder.com/300x200?text=Box+Step+Jumps", "targetMuscles": ["legs","glutes","cardio"], "duration": 10, "intensity": "High", "type": "Cardio" },
+    { "id": 44, "name": "Jump Lunges Twist", "gifUrl": "https://via.placeholder.com/300x200?text=Jump+Lunges+Twist", "targetMuscles": ["legs","glutes","core","cardio"], "duration": 12, "intensity": "High", "type": "Cardio" },
+    { "id": 45, "name": "Jumping Side Kicks", "gifUrl": "https://via.placeholder.com/300x200?text=Jumping+Side+Kicks", "targetMuscles": ["legs","glutes","cardio"], "duration": 12, "intensity": "Medium", "type": "Cardio" },
+
+    { "id": 46, "name": "Jump Rope Criss-Cross", "gifUrl": "https://via.placeholder.com/300x200?text=Jump+Rope+Criss-Cross", "targetMuscles": ["legs","cardio"], "duration": 12, "intensity": "Medium", "type": "Cardio" },
+    { "id": 47, "name": "Lateral Hops Over Line", "gifUrl": "https://via.placeholder.com/300x200?text=Lateral+Hops+Over+Line", "targetMuscles": ["legs","glutes","cardio"], "duration": 10, "intensity": "Medium", "type": "Cardio" },
+    { "id": 48, "name": "Squat to Calf Raise", "gifUrl": "https://via.placeholder.com/300x200?text=Squat+to+Calf+Raise", "targetMuscles": ["legs","calves","cardio"], "duration": 12, "intensity": "Medium", "type": "Cardio" },
+    { "id": 49, "name": "Butt Kick Squats", "gifUrl": "https://via.placeholder.com/300x200?text=Butt+Kick+Squats", "targetMuscles": ["legs","glutes","cardio"], "duration": 12, "intensity": "Medium", "type": "Cardio" },
+    { "id": 50, "name": "Power Jumps", "gifUrl": "https://via.placeholder.com/300x200?text=Power+Jumps", "targetMuscles": ["legs","glutes","cardio"], "duration": 12, "intensity": "High", "type": "Cardio" },
+
+    { "id": 51, "name": "Skater Jumps Wide", "gifUrl": "https://via.placeholder.com/300x200?text=Skater+Jumps+Wide", "targetMuscles": ["legs","glutes","cardio"], "duration": 12, "intensity": "High", "type": "Cardio" },
+    { "id": 52, "name": "Side Step Jumps", "gifUrl": "https://via.placeholder.com/300x200?text=Side+Step+Jumps", "targetMuscles": ["legs","glutes","cardio"], "duration": 12, "intensity": "Medium", "type": "Cardio" },
+    { "id": 53, "name": "Lunge Jump Reach", "gifUrl": "https://via.placeholder.com/300x200?text=Lunge+Jump+Reach", "targetMuscles": ["legs","glutes","core","cardio"], "duration": 12, "intensity": "High", "type": "Cardio" },
+    { "id": 54, "name": "Jump Squat Reach", "gifUrl": "https://via.placeholder.com/300x200?text=Jump+Squat+Reach", "targetMuscles": ["legs","glutes","cardio"], "duration": 12, "intensity": "High", "type": "Cardio" },
+    { "id": 55, "name": "Sprint Jacks", "gifUrl": "https://via.placeholder.com/300x200?text=Sprint+Jacks", "targetMuscles": ["legs","full body","cardio"], "duration": 10, "intensity": "High", "type": "Cardio" },
+
+    { "id": 56, "name": "Side Plank Leg Lifts", "gifUrl": "https://via.placeholder.com/300x200?text=Side+Plank+Leg+Lifts", "targetMuscles": ["core","legs","cardio"], "duration": 10, "intensity": "Medium", "type": "Cardio" },
+    { "id": 57, "name": "Star Jumps", "gifUrl": "https://via.placeholder.com/300x200?text=Star+Jumps", "targetMuscles": ["legs","full body","cardio"], "duration": 12, "intensity": "High", "type": "Cardio" },
+    { "id": 58, "name": "Lunge Hop Twist", "gifUrl": "https://via.placeholder.com/300x200?text=Lunge+Hop+Twist", "targetMuscles": ["legs","glutes","core","cardio"], "duration": 12, "intensity": "High", "type": "Cardio" },
+    { "id": 59, "name": "Squat Side Kick", "gifUrl": "https://via.placeholder.com/300x200?text=Squat+Side+Kick", "targetMuscles": ["legs","glutes","cardio"], "duration": 12, "intensity": "Medium", "type": "Cardio" },
+    { "id": 60, "name": "Power Shuffle", "gifUrl": "https://via.placeholder.com/300x200?text=Power+Shuffle", "targetMuscles": ["legs","glutes","cardio"], "duration": 12, "intensity": "High", "type": "Cardio" }
+  ]
+}
